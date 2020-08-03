@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "myrouter"
+    }
+  },
+  "defaultProject": "myrouter",
+  "cli": {
+    "analytics": "ef9b5c99-1664-46f4-a84e-55bd278ccd98"
+  }
 }
